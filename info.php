@@ -1,5 +1,7 @@
 <?php
 
+
+
 phpinfo();
 ob_start();
 require_once 'index.php';
